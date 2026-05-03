@@ -1,0 +1,6 @@
+{
+  "name": "MyAIronCoach",
+  "description": "El usuario fotografía su tabla de entrenamiento en papel, la IA (Gemini 2.0 Flash) analiza la imagen y genera automáticamente un plan con temporizador por ejercicio. Freemium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
